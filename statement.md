@@ -18,5 +18,6 @@ int main()
     IntWrapper intWrapper(a);
     
     intWrapper.get() = 43;
-}```
+}
+```
 
